@@ -17,19 +17,19 @@
 <br>
 <h3 align="left">💻 Skills:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #A8BFFA; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #A8BFFA; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #A8BFFA; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #E34F26; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #1572B6; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #F7DF1E; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #F7DF1E; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #4479A1; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #339933; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #777BB4; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #3776AB; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #38B2AC; margin-right: 5px;" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="padding: 5px; border-radius: 5px; background-color: #7952B3; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/-C-000000?logo=c&logoColor=A8BFFA&style=flat" alt="C" /> 
+  <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&logoColor=A8BFFA&style=flat" alt="C++" /> 
+  <img src="https://img.shields.io/badge/-C%23-000000?logo=c-sharp&logoColor=A8BFFA&style=flat" alt="C#" /> 
+  <img src="https://img.shields.io/badge/-HTML5-000000?logo=html5&logoColor=E34F26&style=flat" alt="HTML5" /> 
+  <img src="https://img.shields.io/badge/-CSS3-000000?logo=css3&logoColor=1572B6&style=flat" alt="CSS3" /> 
+  <img src="https://img.shields.io/badge/-Java-000000?logo=java&logoColor=F7DF1E&style=flat" alt="Java" /> 
+  <img src="https://img.shields.io/badge/-JavaScript-000000?logo=javascript&logoColor=F7DF1E&style=flat" alt="JavaScript" /> 
+  <img src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&logoColor=4479A1&style=flat" alt="MySQL" /> 
+  <img src="https://img.shields.io/badge/-Node.js-000000?logo=node.js&logoColor=339933&style=flat" alt="Node.js" /> 
+  <img src="https://img.shields.io/badge/-PHP-000000?logo=php&logoColor=777BB4&style=flat" alt="PHP" /> 
+  <img src="https://img.shields.io/badge/-Python-000000?logo=python&logoColor=3776AB&style=flat" alt="Python" /> 
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-000000?logo=tailwind-css&logoColor=38B2AC&style=flat" alt="Tailwind CSS" /> 
+  <img src="https://img.shields.io/badge/-Bootstrap-000000?logo=bootstrap&logoColor=7952B3&style=flat" alt="Bootstrap" />
 </p>
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranshsunuwar&show_icons=true&locale=en&layout=compact" /></p>
