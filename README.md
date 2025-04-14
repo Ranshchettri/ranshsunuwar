@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/-Tailwind_CSS-000000?logo=tailwind-css&logoColor=38B2AC&style=flat" alt="Tailwind CSS" /> 
   <img src="https://img.shields.io/badge/-Bootstrap-000000?logo=bootstrap&logoColor=7952B3&style=flat" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB&style=flat" alt="React" />
+  <img src="https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=F24E1E&style=flat" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Canva-000000?logo=canva&logoColor=00C4CC&style=flat" alt="Canva" />
+  <img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=F05032&style=flat" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&style=flat" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-WordPress-000000?logo=wordpress&logoColor=21759B&style=flat" alt="WordPress" />
 </p>
 
 
