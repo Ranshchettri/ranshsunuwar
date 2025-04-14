@@ -30,7 +30,9 @@
   <img src="https://img.shields.io/badge/-Python-000000?logo=python&logoColor=3776AB&style=flat" alt="Python" /> 
   <img src="https://img.shields.io/badge/-Tailwind_CSS-000000?logo=tailwind-css&logoColor=38B2AC&style=flat" alt="Tailwind CSS" /> 
   <img src="https://img.shields.io/badge/-Bootstrap-000000?logo=bootstrap&logoColor=7952B3&style=flat" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB&style=flat" alt="React" />
 </p>
+
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranshsunuwar&show_icons=true&locale=en&layout=compact" /></p>
 
