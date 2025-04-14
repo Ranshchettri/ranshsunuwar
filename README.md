@@ -21,5 +21,5 @@
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranshsunuwar&show_icons=true&locale=en&layout=compact" /></p>
 
-<p>&nbsp;<img align="right" width="550"src="https://github-readme-stats.vercel.app/api?username=ranshsunuwar&show_icons=true&locale=en" alt="ranshsunuwar" /></p>
+<p>&nbsp;<img align="right" width="500"src="https://github-readme-stats.vercel.app/api?username=ranshsunuwar&show_icons=true&locale=en" alt="ranshsunuwar" /></p>
 
