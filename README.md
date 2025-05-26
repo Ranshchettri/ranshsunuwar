@@ -26,7 +26,7 @@
 </p>
 
 
-<h3 align="left">💻 Skills:</h3>
+<h2 align="canter">💻 Skills:</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/-C-000000?logo=c&logoColor=A8BFFA&style=flat" alt="C" /> 
   <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&logoColor=A8BFFA&style=flat" alt="C++" /> 
