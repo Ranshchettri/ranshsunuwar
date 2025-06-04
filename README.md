@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Ransh sunuwar</h1>
+<h1 align="center"> I'm Ransh Chettri</h1>
 <h3 align="center">🚀 Aspiring Software Developer  | AI & ML Enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ranshsunuwar](https://github.com/ranshsunuwar)
